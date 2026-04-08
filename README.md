@@ -38,8 +38,6 @@ This repository houses the simulation environment, behavioral profiles, PPO trai
 
 ## 🎮 The Simulation Explained
 
-> **Note on Visuals:** *Please insert your live simulation screenshot below (`visualization_screenshot.png`) to showcase the PyGame rendering.*
-
 <div align="center">
   <img src="./simulation.gif" alt="Live Traffic Simulation Representation" width="100%" />
 </div>
