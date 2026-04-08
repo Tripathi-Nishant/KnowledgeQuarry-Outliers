@@ -1,3 +1,8 @@
+import sys
+import os
+# Add root to sys.path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import numpy as np
 import pandas as pd
 import gymnasium as gym

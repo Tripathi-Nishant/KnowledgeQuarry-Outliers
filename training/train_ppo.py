@@ -1,5 +1,9 @@
-import gymnasium as gym
+import sys
 import os
+# Add root to sys.path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+import gymnasium as gym
 import yaml
 from stable_baselines3 import PPO
 from stable_baselines3.common.env_util import make_vec_env
