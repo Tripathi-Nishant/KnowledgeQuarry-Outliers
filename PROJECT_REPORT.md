@@ -69,5 +69,4 @@ By adding **20% RL Agents** into the "Mixed" (30% Aggressive) population:
 | **Run Analysis** | Open `notebooks/analysis.ipynb` |
 
 ---
-**Report Generated for**: ML Research Submission
 **Author**: Nishant Tripathi
