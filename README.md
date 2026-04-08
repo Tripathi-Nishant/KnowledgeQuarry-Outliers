@@ -41,7 +41,7 @@ This repository houses the simulation environment, behavioral profiles, PPO trai
 > **Note on Visuals:** *Please insert your live simulation screenshot below (`visualization_screenshot.png`) to showcase the PyGame rendering.*
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/1E1E1E/00FF00?text=+Replace+With+Simulation+Screenshot+" alt="Live Traffic Simulation Representation" width="100%" />
+  <img src="https://github.com/Tripathi-Nishant/KnowledgeQuarry-Outliers/blob/main/Screenshot%202026-04-07%20114738.png" alt="Live Traffic Simulation Representation" width="100%" />
 </div>
 
 The custom simulation (`pygame_renderer.py`) serves as our "Virtual Brain" to visualize and measure throughput in real-time. Here is how to interpret the rendering:
